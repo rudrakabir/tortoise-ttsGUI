@@ -6,7 +6,7 @@ This guide provides basic instructions on how to install and run the Tortoise TT
 
 - **Python**: You need Python installed (Python 3.9 or higher is recommended).
 - **Git**: To clone the repository.
-- **Anaconda/Miniconda** (Optional but recommended): For managing virtual environments.
+- **Anaconda/Miniconda** (Optional but recommended): For managing VENs.
 
 ## Installation
 
